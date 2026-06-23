@@ -2,8 +2,7 @@
 
 ### *Your everyday companion for flexible work opportunities*
 
-> **"A Giggle mindennapi társadként segít kiszélesíteni lehetőségeidet akár holnaptól!"**
-> *("Giggle helps you expand your opportunities as your everyday companion — starting as soon as tomorrow!")*
+> *Giggle helps you expand your opportunities as your everyday companion — starting as soon as tomorrow!*
 
 [![Website](https://img.shields.io/badge/Website-giggle.hu-brightgreen?style=for-the-badge&logo=google-chrome)](https://giggle.hu)
 [![App](https://img.shields.io/badge/Web_App-app.giggle.hu-blue?style=for-the-badge&logo=google-chrome)](https://app.giggle.hu)
