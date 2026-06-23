@@ -59,7 +59,7 @@ Giggle is available on all major platforms. Download it and start working — or
 
 ---
 
-## 🔗 Links
+## Links
 
 - **Website:** [giggle.hu](https://giggle.hu)
 - **Platform:** [app.giggle.hu](https://app.giggle.hu)
