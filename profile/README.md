@@ -1,4 +1,4 @@
-# 👋 Welcome to Giggle Kft.
+# 👋 Welcome to Giggle
 
 ### *Your everyday companion for flexible work opportunities*
 
